@@ -1,4 +1,7 @@
 # utl-altair-slc-chapter-III-verifying-training-logistic-using-holdout
+
+    FIXING AN ISSUE WITH THE ALGORITHM. NEED TO USE THE MODEL EQUATION INSTEAD OF THE HOLDOUT LOGISTIC.
+
 Altair slc chapter III verifying training logistic using holdout
     %let pgm=utl-altair-slc-chapter-III-verifying-training-logistic-using-holdout;
 
